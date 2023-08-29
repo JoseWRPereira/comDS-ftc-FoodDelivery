@@ -26,3 +26,27 @@ jupyter notebook
 
 Dataset: [Food Delivery Dataset - kaggle](https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset)
 
+
+
+## Método de planejamento
+
+### SAPE
+1. SAída: O que será entregue?
+2. Processo: Sequência lógica de passos para a resolução.
+3. Entrada: Utilizar ferramenta específica para transcrever o processo.
+
+
+## Ferramentas python
+* Fundamentos
+    * Lógica de Programação;
+    * Ferramentas de programação (python, scrips, Google Colab, compilação);
+    * Tipos de variáveis;
+* Estrutura de dados
+    * Condicionais e laços de repetição: if, ifelse, for, while;
+    * Lista, Dicionário, dataframe;
+    * Lógica combinacional: and, or, not;
+* Manipulação de dados
+    * Seleção de linhas e colunas (loc, iloc);
+    * Manipulação de DataFrame;
+    * Agrupamentos (.groupby);
+
